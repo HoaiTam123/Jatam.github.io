@@ -1,0 +1,60 @@
+*{
+	margin:0;
+	padding:0;
+}
+.tren{
+	width:100%;
+	height: 700px;
+	background: url(image/menu.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+}
+a.nav-link {
+    color: black;
+    font-weight: 600;
+}
+.chapter1 {
+	width: 100%;
+    height: 700px;
+    background: url(image/london1.jpg);
+    background-size: cover;   
+}
+.chapter2 {
+	width: 100%;
+    height: 700px;
+    background: url(image/london2.jpg);
+    background-size: cover;   
+}
+.chapter3 {
+	width: 100%;
+    height: 700px;
+    background: url(image/london3.jpg);
+    background-size: cover;   
+}
+.chapter4 {
+	width: 100%;
+    height: 700px;
+    background: url(image/london4.jpg);
+    background-size: cover;   
+}
+h2.chuto {
+    font-size: 190px;
+    color: #fff;
+    padding-left: 20%;
+    padding-top: 15%;
+}
+.noidung1,.noidung2,.noidung3, .noidung4 h2 {
+    height: 800px;
+    padding: 0 50px;
+    text-align: center;
+    color: gray;
+}
+.nutlentren {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    background: #ffffff4d;
+    font-weight: 600;
+    cursor: pointer;
+    border: 1px ;
+}

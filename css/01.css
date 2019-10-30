@@ -1,0 +1,45 @@
+*{
+	margin:0;
+	padding:0;
+}
+@font-face{
+	src:url('vendor/font/Roboto_Slab/RobotoSlab-Regular.ttf');
+	font-family:'Roboto Slab', serif;
+	}
+body{
+	background-color: #e9ecef8a !important; ;
+}
+.hieuung {
+    width: 40%;
+    margin: auto;
+}
+.motkhoi{
+	background: #fff;
+}
+h3{
+	display: block;
+}
+.motkhoi h3{
+	background: #17a2b87d;
+	
+}
+
+.ndmotkhoi{
+	
+    border: 1px solid #343a408f;
+}
+i .fas .fa-chevron-down{
+	float: right;
+}
+.motkhoi h3.xanh{
+	background: blue;
+}
+.motkhoi h3.xanh:hover{
+	background: blue;
+}
+.top {
+	width: 500px;
+	height: 500px;
+	background: url("image/menu.jpg");
+	background-size: cover;
+}
